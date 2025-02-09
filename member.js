@@ -1,7 +1,3 @@
-function skillMember() {
-  return {
-    name: "skillMember",
-    type: "member",
-    hasSkill: true,
-  };
+function skillsMember() {
+    return "I can do it!";
 }
